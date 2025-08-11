@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Dotnet.PackageTest</Title>
+    <Authors>Brenden Perry</Authors>
+    <Description>This is a test nuget package.</Description>
+	<PackageDescription> Test package!</PackageDescription>
+    <PackageProjectUrl>https://github.com/Brenden-Dean-Perry/Dotnet.PackageTest</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Brenden-Dean-Perry/Dotnet.PackageTest</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
